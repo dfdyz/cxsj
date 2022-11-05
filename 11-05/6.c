@@ -41,7 +41,7 @@ int main()
 	
 	crep(i,0,func[n][2]){
 		crep(j,0,func[n][1]+2*i){
-			printf("%dуе1т╙, %dуе5т╙, %dуе10т╙\n",func[n][0]+5*j,func[n][1]-j+i*2,func[n][2]-i);
+			printf("%dЕ╪═1Е²≈, %dЕ╪═5Е²≈, %dЕ╪═10Е²≈\n",func[n][0]+5*j,func[n][1]-j+i*2,func[n][2]-i);
 		}
 	}
 
