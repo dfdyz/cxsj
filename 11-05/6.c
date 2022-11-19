@@ -18,7 +18,7 @@ int main()
 	
 	crep(i,0,c){
 		crep(j,0,b+2*i){
-			printf("%då¼ 1å…ƒ, %då¼ 5å…ƒ, %då¼ 10å…ƒ\n",a+5*j,b-j+i*2,c-i);
+			printf("%dÕÅ1Ôª, %dÕÅ5Ôª, %dÕÅ10Ôª\n",a+5*j,b-j+i*2,c-i);
 		}
 	}
 

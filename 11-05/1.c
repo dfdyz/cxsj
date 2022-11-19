@@ -4,8 +4,6 @@
 
 double num[5];
 
-//手搓冒泡排序
-//__stype 数组类型
 #define __stype double
 void fsort(__stype *__t,int size){
     int tag=1;
